@@ -1,0 +1,15 @@
+/Users/annanalimova/Desktop/Задача 41,43/41/bin/Debug/net6.0/41
+/Users/annanalimova/Desktop/Задача 41,43/41/bin/Debug/net6.0/41.deps.json
+/Users/annanalimova/Desktop/Задача 41,43/41/bin/Debug/net6.0/41.runtimeconfig.json
+/Users/annanalimova/Desktop/Задача 41,43/41/bin/Debug/net6.0/41.dll
+/Users/annanalimova/Desktop/Задача 41,43/41/bin/Debug/net6.0/41.pdb
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.csproj.AssemblyReference.cache
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.AssemblyInfoInputs.cache
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.AssemblyInfo.cs
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.csproj.CoreCompileInputs.cache
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.dll
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/refint/41.dll
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.pdb
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/41.genruntimeconfig.cache
+/Users/annanalimova/Desktop/Задача 41,43/41/obj/Debug/net6.0/ref/41.dll
